@@ -186,7 +186,6 @@ DOMAIN-SUFFIX,baichuan.baidu.com
 DOMAIN-SUFFIX,baidu9635.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baidutv.baidu.com
-DOMAIN-SUFFIX,baikebcs.bdimg.com
 DOMAIN-SUFFIX,banlv.baidu.com
 DOMAIN-SUFFIX,bar.baidu.com
 DOMAIN-SUFFIX,bdplus.baidu.com
@@ -1093,6 +1092,7 @@ DOMAIN-SUFFIX,click.ganji.com
 DOMAIN-SUFFIX,click.tianya.cn
 DOMAIN-SUFFIX,click.tianyaui.cn
 DOMAIN-SUFFIX,client-api.ele.me
+DOMAIN-SUFFIX,collector.githubapp.com
 DOMAIN-SUFFIX,counter.csdn.net
 DOMAIN-SUFFIX,d0.xcar.com.cn
 DOMAIN-SUFFIX,de.soquair.com
