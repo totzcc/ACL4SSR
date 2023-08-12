@@ -46,7 +46,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,aaaaaaa
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
@@ -1968,11 +1968,11 @@ DOMAIN-SUFFIX,girlbanker.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,githack.com
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,aaaaaaa.blog
+DOMAIN-SUFFIX,aaaaaaa.com
+DOMAIN-SUFFIX,aaaaaaa.io
+DOMAIN-SUFFIX,aaaaaaaassets.com
+DOMAIN-SUFFIX,aaaaaaausercontent.com
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com
 DOMAIN-SUFFIX,glass8.eu
@@ -4196,7 +4196,7 @@ DOMAIN-SUFFIX,raremovie.net
 DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,rationalwiki.org
 DOMAIN-SUFFIX,rawgit.com
-DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,rawaaaaaaa.com
 DOMAIN-SUFFIX,raxcdn.com
 DOMAIN-SUFFIX,razyboard.com
 DOMAIN-SUFFIX,rcinet.ca
@@ -6067,12 +6067,12 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
-# Github
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
+# aaaaaaa
+DOMAIN-SUFFIX,aaaaaaa.com
+DOMAIN-SUFFIX,aaaaaaa.io
+DOMAIN-SUFFIX,aaaaaaaapp.com
+DOMAIN-SUFFIX,aaaaaaaassets.com
+DOMAIN-SUFFIX,aaaaaaausercontent.com
 
 # Google
 DOMAIN-SUFFIX,1e100.net
